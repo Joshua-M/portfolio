@@ -8,7 +8,7 @@ I'm a Data Analyst with a strong background in advertising analytics, media perf
 
 ## 📂 Featured Projects
 
-🔥 **Ad Performance Prediction and Optimisation Using Deep Learning**
+###🔥 **Ad Performance Prediction and Optimisation Using Deep Learning**
 -Developed a deep learning model to predict advertisement performance based on historical engagement and audience data.
 -Used convolutional neural networks (CNNs) for image-based ads and LSTMs for sequential data to identify key factors influencing click-through rates (CTR), conversions, and engagement.
 -Implemented reinforcement learning techniques for real-time budget allocation and bid optimisation in programmatic advertising.
