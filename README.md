@@ -21,6 +21,13 @@ I'm a Data Analyst with a strong background in advertising analytics, media perf
 - Used `fuzzywuzzy` and `pandas` to improve data accuracy and consistency.
 - Helped streamline data processing across multiple campaigns.
 
+### 🎯 **Customer Conversion Prediction Using Machine Learning**  
+- Built a **Random Forest Classifier** to predict **customer conversion rates** based on demographic, behavioural, and ad interaction data.  
+- Performed **exploratory data analysis (EDA)**, including visualising **conversion distributions and feature importance**.  
+- Preprocessed data with **one-hot encoding for categorical variables** and **standardisation for numerical features**.  
+- Achieved **high accuracy and AUC-ROC scores**, identifying key factors influencing **customer conversions**.  
+- Provided insights into **ad channel effectiveness, user engagement, and conversion likelihood** to optimise marketing strategies.
+
   
 
 ## 💻 Tech Stack
