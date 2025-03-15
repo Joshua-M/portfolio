@@ -35,7 +35,7 @@ I'm a Data Analyst with a strong background in advertising analytics, media perf
 - **Data Science & Analytics:** Pandas, NumPy, Scikit-learn, Statsmodels
 - **BI Tools:** Qlik Sense, Power BI, Looker Studio
 - **Version Control:** Git, GitHub
-- **Cloud & Databases:** Snowflake, PostgreSQL
+- **Cloud & Databases:** Snowflake, PostgreSQL, AWS
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/joshua-mahada/)
