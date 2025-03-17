@@ -17,6 +17,7 @@ I'm a Data Analyst with a strong background in advertising analytics, media perf
 
 
 ### 🔍 Fuzzy Matching Algorithm for Data Cleaning
+
 - Engineered a Python-based fuzzy matching script to deduplicate advertising datasets.
 - Used `fuzzywuzzy` and `pandas` to improve data accuracy and consistency.
 - Helped streamline data processing across multiple campaigns.
@@ -27,6 +28,14 @@ I'm a Data Analyst with a strong background in advertising analytics, media perf
 - Preprocessed data with **one-hot encoding for categorical variables** and **standardisation for numerical features**.  
 - Achieved **high accuracy and AUC-ROC scores**, identifying key factors influencing **customer conversions**.  
 - Provided insights into **ad channel effectiveness, user engagement, and conversion likelihood** to optimise marketing strategies.
+
+### Media Mix Model (MMM) – Optimizing Ad Spend with Data Science
+- A data-driven Media Mix Model (MMM) built with Python to analyze the impact of various media channels on total investment. This project applies Adstock Transformation, Diminishing Returns, and OLS Regression to quantify media effectiveness and simulate budget allocation scenarios. The model achieves 90.6% accuracy (R² = 0.906) and provides insights to optimize media spend.
+
+📊 Key Features:
+✅ Predictive Modeling – Understand how different media investments drive total spend.
+✅ Budget Optimization – Simulate different ad spend strategies for maximum ROI.
+✅ Data Visualization – Compare actual vs. predicted investment trends.
 
   
 
