@@ -43,6 +43,11 @@ I am a **Data Analyst** specialising in **advertising analytics, media performan
 - Includes **candlestick charts, moving averages, Bollinger Bands, RSI, MACD**, and **automated trading signals**.
 - Uses AI-based insights to detect **trading opportunities**.
 
+### Sales Dashboard
+- Interactive **advertising spend and performance** analytics tool.
+- Tracks **media channel effectiveness** and provides **ROI-based recommendations**.
+- Supports **custom filtering, trend visualisation, and budget allocation insights**.
+
 
 ---
 ## Technical Skills
